@@ -1,10 +1,11 @@
 # Titanic: Exploratory Data Analysis, Statistical Analysis and Machine Learning
 
 **BCS 404: Introduction to Data Science with Python** — Project Work
-Accra Technical University, Department of Computer Science
-Academic Year 2025/2026, Second Semester
-Lecturer: Dr. Joseph Dadzie
-Student: Illona Addae
+
+- Accra Technical University, Department of Computer Science
+- Academic Year 2025/2026, Second Semester
+- Lecturer: Dr. Joseph Dadzie
+- Student: Illona Addae
 
 ## Overview
 
